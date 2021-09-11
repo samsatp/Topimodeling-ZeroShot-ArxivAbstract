@@ -3,4 +3,4 @@ This is the NLP project in which I'm trying to achieve the text classification t
 
 ## Method
 The model will be building by employ *Zero-shot learning* idea. The model architecture can be illustrated in the figure below.
-![](media\model.drawio.png)
+![](./media/model.drawio.png)
