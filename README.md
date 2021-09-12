@@ -21,4 +21,5 @@ optional arguments:
 ```
 > NOTE: use `\n` to separate each sentence in document specified in `--abstract` 
 
-Example: `python inference.py --abstract="some document in a long string." --candidates="computer science<sep>economics<sep>geology"`
+Example input: `python inference.py --abstract="some document in a long string." --candidates="computer science<sep>economics<sep>geology"`
+Example output: `[[0.2603415], [0.6280834], [0.1115749]]`
